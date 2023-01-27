@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorange_website=self.webpackChunkorange_website||[]).push([[4322],{4326:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/orange.dev.github.io/blog/tags/facebook","allTagsPath":"/orange.dev.github.io/blog/tags","count":1}')}}]);
