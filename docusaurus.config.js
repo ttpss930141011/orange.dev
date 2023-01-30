@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "HS Xiao's Life Corner",
+  title: "HS's Life Corner",
   tagline: 'Dinosaurs are cool',
   url: 'https://github.com',
   baseUrl: '/orange.dev.github.io/',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "HS Xiao's Life Corner",
+        title: "HS's Life Corner",
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
