@@ -56,6 +56,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        apiKey:"977c3635e5dd2f7c4bccd3704cb61ff8",
+        appId:"K74TFY0COZ",
+        indexName:"orange.dev"
+      },
       navbar: {
         title: "HS's Life Corner",
         logo: {
