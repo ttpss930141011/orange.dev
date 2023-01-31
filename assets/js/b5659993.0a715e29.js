@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorange_website=self.webpackChunkorange_website||[]).push([[9364],{4991:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/orange.dev/blog/tags/hola","allTagsPath":"/orange.dev/blog/tags","count":1}')}}]);
